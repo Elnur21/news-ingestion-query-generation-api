@@ -26,3 +26,13 @@ Before running the project, make sure you have:
 
 - A Hugging Face API key
 - A CSV file containing a list of URLs
+
+# Run app
+
+```
+npm install
+```
+
+```
+node index.js
+```
